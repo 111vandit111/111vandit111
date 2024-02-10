@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Vandit Kala</h1>
 <h3 align="center">🚀 Passionate about building robust web applications and contributing to innovative projects. Proactive learner, adept at staying updated with the latest technologies. Strong collaborator with excellent problem-solving skills and a commitment to delivering high-quality solutions , Currently working as an Associate Software Developer at Red Baton ,India.</h3>
 
