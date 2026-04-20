@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working as **Associate Software Developer at Red Baton (India)**
+- 🔭 Currently working as **Software Developer at Northstarz.ai(India)**
 - 🌱 Exploring **More React, and system design**
 - 💡 Passionate about **AI, scalable systems, and product thinking**
 - 🤝 Open to collaborating on **open-source & impactful projects**
