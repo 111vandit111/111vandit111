@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vandit Kala</h1>
 <h3 align="center">🚀 Full-Stack Developer | Building scalable web apps & AI-powered products</h3>
 
+<meta name="google-site-verification" content="b26GaG2iIwR4ci2xVtGHesVgx9A8aBd3MROmZ3cjNzU" />
+
 ---
 
 ### 👨‍💻 About Me
